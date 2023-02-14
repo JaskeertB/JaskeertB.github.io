@@ -20,6 +20,10 @@
     transform: translate(-50%, -50%);
     color: white;
 }
-.imageAboutPage {
-    width: 80%;
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+#images, #webUsability {
+    margin-top: 4rem;
+    padding-top: 4rem;
 }
